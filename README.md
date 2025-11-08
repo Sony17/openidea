@@ -1,0 +1,2 @@
+# openidea
+openidea.world
