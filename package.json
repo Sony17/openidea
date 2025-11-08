@@ -1,0 +1,25 @@
+{
+  "name": "@openidea/root",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monorepo workspace for the Open Idea platform.",
+  "scripts": {
+    "build": "echo \"Define build orchestration once packages are in place\"",
+    "dev": "echo \"Bootstrap individual apps with pnpm --filter\"",
+    "lint": "echo \"Run shared linting via packages/config\"",
+    "test": "echo \"Run tests across workspaces once configured\""
+  },
+  "keywords": [
+    "openidea",
+    "monorepo",
+    "workspace"
+  ],
+  "author": "Open Idea Contributors",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sony17/openidea.git"
+  },
+  "packageManager": "pnpm@9.12.0"
+}
+
